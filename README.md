@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently working as a Data Scientist at AGC Asia Pacific (India) Pvt Ltd<br>🔭 completed Bachelors from IIT Hyderabad.<br>🌱 proficient in Python, NLP, Image Processing and automation.<br>I'm currently learning Bayesian Machine Learning and it's applications.<br>How to reach me: somvanshirishitsingh@gmail.com<br> <br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=RishitSingh10)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishitsingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:somvanshirishitsingh@gmail.com) 
