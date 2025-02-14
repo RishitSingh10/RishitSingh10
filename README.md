@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, Ujjwal Shaw</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, Rishit Singh</h1>
 
 <p align="center">
 <a href="https://github.com/RishitSingh10?tab=followers">
@@ -11,12 +11,9 @@
 <img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=RishitSingh10&style=for-the-badge&color=blue"/>
     </a>
 </p>
-<h3 align="center">A passionate Data Scientist who loves!</h3>
+<h3 align="center">A passionate Data Scientist who loves MATH!</h3>
 <hr />
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mitul3737/mitul3737/main/mituls%20code.gif" width="250" height="200" />
-
-<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;About Me</h2>
-
 
 # 💫 About Me:
 I'm currently working as a Data Scientist at AGC Asia Pacific (India) Pvt Ltd<br>🔭 completed Bachelors from IIT Hyderabad.<br>🌱 proficient in Python, NLP, Image Processing and automation.<br>I'm currently learning Bayesian Machine Learning and it's applications.<br>How to reach me: somvanshirishitsingh@gmail.com<br> <br>
