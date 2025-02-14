@@ -1,8 +1,25 @@
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, Ujjwal Shaw</h1>
+
+<p align="center">
+<a href="https://github.com/RishitSingh10?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RishitSingh10?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+</a>
+<a href="https://github.com/Ujjwalshaw?tab=stars">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RishitSingh10?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+
+  <a href="https://github.com/Ujjwalshaw">
+<img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=RishitSingh10&style=for-the-badge&color=blue"/>
+    </a>
+</p>
+<h3 align="center">A passionate Data Scientist who loves!</h3>
+<hr />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mitul3737/mitul3737/main/mituls%20code.gif" width="250" height="200" />
+
+<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;About Me</h2>
+
+
 # 💫 About Me:
 I'm currently working as a Data Scientist at AGC Asia Pacific (India) Pvt Ltd<br>🔭 completed Bachelors from IIT Hyderabad.<br>🌱 proficient in Python, NLP, Image Processing and automation.<br>I'm currently learning Bayesian Machine Learning and it's applications.<br>How to reach me: somvanshirishitsingh@gmail.com<br> <br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=RishitSingh10)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishitsingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:somvanshirishitsingh@gmail.com) 
