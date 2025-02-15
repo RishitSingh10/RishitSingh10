@@ -4,10 +4,10 @@
 <a href="https://github.com/RishitSingh10?tab=followers">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RishitSingh10?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
 </a>
-<a href="https://github.com/Ujjwalshaw?tab=stars">
+<a href="https://github.com/RishitSingh10?tab=stars">
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RishitSingh10?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 
-  <a href="https://github.com/Ujjwalshaw">
+  <a href="https://github.com/RishitSingh10">
 <img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=RishitSingh10&style=for-the-badge&color=blue"/>
     </a>
 </p>
